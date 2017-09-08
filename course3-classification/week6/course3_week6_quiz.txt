@@ -1,0 +1,20 @@
+Week 6
+recall = 5600/(5600+40) = 0.99
+precision = 5600/(5600+1900) = 0.75
+accuracy = (5600+2460)/(5600+40+1900+2460) = 0.806
+random accuracy = 0.5
+mijority accuracy(predict all +) = (5600+40)/(5600+40+1900+2460) = 0.564
+1. 0.99
+2. A
+3. A
+4. C
+5. A
+For Q6&7, the probability t (see notes p.37) represents the confidence level.
+6. A
+In question 6, we assume that the majority of points are positive, and would like to avoid overfitting by adjusting the confidence level. Overfitting, in this case, means that we're labeling too many points as positive. So, of the two options that the quiz presents, which one would ensure that our model captures only the 'most positive' points? (Think about how confidence levels correspond to this 'degree of positivity'.)
+7. B
+In question 7, we assume that false negatives cost more than false positives. Let's stop and think about the consequences of this. Say that we have a point that could be positive or negative with equal likelihood. How should we classify it, based on the cost of making a mistake? If we classify it as negative when it's actually positive, then we end up paying a higher penalty than if we classify it as positive when it's actually negative!
+
+The takeaway? We only want to classify points as negative if we're confident that they're actually negative. If we're not sufficiently confident that a point is negative, then we ought to err on the side of caution and classify it as positive, because we end up paying less if we're mistaken. So, of the two options that the quiz presents, which one would result in a greater number of positive predictions (which would, in turn, ensure that we're more confident about our negative predictions)?
+8. C
+9. 2.20

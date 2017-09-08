@@ -1,0 +1,10 @@
+Week 2
+1. D, lower case w is parameter.
+2. False, not necessarily.
+3. C.
+4. C, other features are not affected if they don't depend on doubled feature.
+5. B.
+6. B.
+7. CD, can diverge if step size is too big, can be slow if step size is too small.
+8. 5000
+9. C, https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations

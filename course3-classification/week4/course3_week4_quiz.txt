@@ -1,0 +1,20 @@
+Week 4
+1. B
+2. A, If no two data points have the same input values, we can always learn a decision tree that achieves 0 training error.
+3. B
+4. B
+5. A
+6. C
+7. ABD
+8. 0.25
+9. 0.25
+10.0.25
+11.B
+
+1. B
+2. AD
+3. B
+4. B
+5. B
+6. AB
+7. A

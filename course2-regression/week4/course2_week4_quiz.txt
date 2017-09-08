@@ -1,0 +1,10 @@
+Week 4
+1. A, notes page 15.
+2. AD, notes page 20.
+3. C, refer to Q2 for curves of bias and variance, curve of generalization(true) error starts at big value due to overfitting, then it goes down because the fit becomes better, then it goes up due to underfitting.
+4. D, not sure about the value of lambda, can't exactly tell the effects.
+5. A.
+6. B, notes page 59.
+7. B, for L lambda values, for N groups, Cost(N-1,D) since N-1 for testing 1 for validation.
+8. C, 100*1000000 sec.
+9. B, 100*K = 60*60 sec.

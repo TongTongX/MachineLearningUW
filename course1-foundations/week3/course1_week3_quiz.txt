@@ -1,0 +1,12 @@
+Week 3
+Quiz: Classification
+1.
+Must have pre-defined positive and negative attributes && Must either count attributes equally or pre-define weights on attributes.
+
+e.g., positive attributes are list of positive words, negative attributes are list of negative words, we analyze it by either count positive and negative words in sentence, or compute a weighted sum.
+2. We are uncertain whether the review is “positive” or “negative”
+3. B, the boundary separating positives and negatives is linear.
+4. False, counter example is majority class prediction.
+5. True. 1/5 = 0.2
+6. False, depends.
+7. Test error tends to decrease with more training data until a point, and then does not change (i.e., curve flattens out), since the bias of model is always greater than 0.

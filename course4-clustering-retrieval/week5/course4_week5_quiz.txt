@@ -1,0 +1,19 @@
+Week5
+Quiz: Latent Dirichlet Allocation
+1. B
+2. B
+3. A
+4. B
+5. B
+
+Quiz: Learning LDA model via Gibbs sampling
+1. B
+2. AD
+3. B
+4. 20
+5. 123
+6. 3
+7. 1
+8. 36
+9. 241
+10.0.559

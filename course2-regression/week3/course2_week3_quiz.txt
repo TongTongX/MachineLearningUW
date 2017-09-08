@@ -1,0 +1,14 @@
+Week 3
+1. B, complexity2 > complexity1, but the training errors could be the same.
+2. B, complexity2 > complexity1, model2 usually has lower training error.
+3. C, complexity2 > complexity1, but not enough information to tell lower error.
+4. B, complexity2 > complexity1, model2 usually has lower bias.
+5. C
+6. A
+7. B, not always.
+8. A
+9. B
+10.C
+11.E
+12.BD, selecting complexity based on validation(not test) data avoids overfitting; overly optimistic; nothing to do with computational efficiency; never select complexity on test data.
+13.C

@@ -1,0 +1,15 @@
+Week2
+
+Quiz: KD-trees
+1. B
+2. -0.015
+3. 0.995
+4. D
+5. ABCEFG
+
+Quiz: Locality Sensitive Hashing
+1. B
+2. A
+3. B
+4. A
+5. B

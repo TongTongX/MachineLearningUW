@@ -1,0 +1,19 @@
+Week3
+
+Quiz: k-means
+1. A
+2. A
+3. A
+4. B
+5. B
+6. A
+7. B
+8. B
+9. A
+
+Quiz: MapReduce for k-means
+1. D
+2. A
+3. B
+4. B
+5. AB

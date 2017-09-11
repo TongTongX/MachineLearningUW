@@ -1,8 +1,0 @@
-Week 4
-Quiz: Clustering and Similarity
-1. 2111211
-2. [1 7 0 0 2 0 1], find the greatest dot product
-3. 98
-4. No, base does not matter
-5. AC are true, B should be unsupervised learning problem.
-6. B, each cluster center should be at the center of mass of observations.
